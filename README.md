@@ -34,6 +34,6 @@ c. Identify examples, such as price movements and target percentages.
 From the project, I found the ideal number of clusters to be 2 and from this, I have identified various recommendations for traders by taking note from the observations .
 Two such observations maybe:
 
-1.In this cluster there is a pattern where prices tend to fall over the first 5 minutes, consider taking a long position when data points fall into this cluster. When the prices increase over the first minutes , consider taking the short position.
+1. In this cluster there is a pattern where prices tend to fall over the first 5 minutes, consider taking a long position when data points fall into this cluster. When the prices increase over the first minutes , consider taking the short position.
 
-2.Avoid trading during periods identified as high volatility clusters unless your strategy is designed to handle such volatility. Use stop-loss orders aligned with historical price movements within each cluster to mitigate risks.
+2. Avoid trading during periods identified as high volatility clusters unless your strategy is designed to handle such volatility. Use stop-loss orders aligned with historical price movements within each cluster to mitigate risks.
