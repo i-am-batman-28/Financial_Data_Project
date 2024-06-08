@@ -1,4 +1,4 @@
-This is a project that I made for the interview round for a data science internship at OptAlpha.
+This is a project that I made for the technical round for a data science internship at OptAlpha.
 
 Here, I have executed the following problem statement:
 
